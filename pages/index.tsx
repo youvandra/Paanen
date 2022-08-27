@@ -199,7 +199,7 @@ const Home: NextPage = () => {
                   </li>
                   <li className="pl-3 lg:pl-5 xl:pl-8 cursor-pointer hover:text-gray-300 ease-in">
                       <a
-                        href="#Season"
+                        href="#season"
                         className="focus:outline-none focus:ring-2 focus:ring-white"
                         >
                       Season
