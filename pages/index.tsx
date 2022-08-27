@@ -223,7 +223,7 @@ const Home: NextPage = () => {
           <div id="home" className="relative px-4 xl:px-0 container mx-auto md:flex items-center gap-8">
             <div className="text-color w-full md:w-1/3 pt-16 lg:pt-32 xl:pt-12">
                 <h1 className="text-4xl md:text-4xl lg:text-6xl w-11/12 lg:w-11/12 xl:w-full xl:text-6xl text-gray-900 font-extrabold f-f-l">
-                  Mint NFT, Get the Harvest, Directly From the Farmer.
+                  Mint NFT, Get the Harvest, Directly from the Farmer.
                 </h1>
                 <div className="f-f-r text-base lg:text-base pb-20 sm:pb-0 pt-10 xl:pt-6">
                   <h2>
@@ -263,7 +263,7 @@ const Home: NextPage = () => {
           <div className="lg:mt-16 sm:mt-12 mt-16 flex lg:flex-row justify-between flex-col lg:gap-8 gap-12">
             <div className="w-full xl:w-5/12 lg:w-6/12">
                 <h2 className="font-bold lg:text-4xl text-3xl lg:leading-9 leading-7 text-gray-800">Mint NFT, Get Your Harvest!</h2>
-                <p className="font-normal text-base leading-6 text-gray-600 mt-4">PAANEN makes you obtain NFT but not with selling unique paintings or drawings, instead with the event's certificate, which contains the name of the harvest product and the village from which the product originates, the name of the ongoing event, and the edition of the event, the weight of the harvest, and the QR code for the submission data filling form.</p>
+                <p className="font-normal text-base leading-6 text-gray-600 mt-4">PAANEN makes you obtain NFT but not with selling unique paintings or drawings, instead with the event&rsquos certificate, which contains the name of the harvest product and the village from which the product originates, the name of the ongoing event, and the edition of the event, the weight of the harvest, and the QR code for the submission data filling form.</p>
                 <p className="font-normal text-base leading-6 text-gray-600 mt-6">Every time you mint NFT, you will be entitled to your harvest and the farmer will immediately send the harvest to your address.</p>
             </div>
             <div className="lg:flex items-center w-full lg:w-1/2 ">
