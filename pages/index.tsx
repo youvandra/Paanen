@@ -227,10 +227,8 @@ const Home: NextPage = () => {
                 </h1>
                 <div className="f-f-r text-base lg:text-base pb-20 sm:pb-0 pt-10 xl:pt-6">
                   <h2>
-                  DApps to purchase harvested products from seasons held directly 
-                  by farmers, through the NFT minting system, with MATIC currency 
-                  based on Polygon blockchain. 
-                  Mint NFT, get your harvest.
+                  DApps helps you to purchase harvested products from events held directly by farmers, through the NFT minting system, 
+                  with MATIC currency based on Polygon Blockchain. Mint NFT, get your harvest.
                   </h2>
                 </div>
                 <div className="lg:flex">
@@ -254,8 +252,8 @@ const Home: NextPage = () => {
       <div id="about" className="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
           <div className="lg:w-10/12 w-full">
             <p className="font-normal text-sm leading-3 text-emerald-700 hover:text-emerald-800 cursor-pointer">About</p>
-            <h2 className="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2">We are here to make it easier for village farmers to sell their crops with the new technology, Blockchain!.</h2>
-            <p className="font-normal text-base leading-6 text-gray-600 mt-6">Many village farmers complain that the purchase price of their harvested products is low because they have a narrow market. PAANEN has a goal is to expand the rural agricultural market, make the purchasing system for agricultural products easier, faster, and safer, as well as make rural farmers familiar with new technologies in the world.</p>
+            <h2 className="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2">We are here to help village farmers to sell their crops more efficiently with the new technology.</h2>
+            <p className="font-normal text-base leading-6 text-gray-600 mt-6">Many village farmers often complain that the purchase price of their harvested products is low because they have a narrow market. PAANEN has a goal, which is to expand the rural agricultural market and to make the purchasing system for agricultural products easier, faster, and safer, also to make rural farmers familiar with new technologies in the world.</p>
           </div>
           <div className="lg:mt-14 sm:mt-10 mt-12">
             <img className="lg:block hidden w-full" src="https://i.ibb.co/JpbKy79/Desain-tanpa-judul-7.webp" alt="Group of people Chilling" />
@@ -265,8 +263,8 @@ const Home: NextPage = () => {
           <div className="lg:mt-16 sm:mt-12 mt-16 flex lg:flex-row justify-between flex-col lg:gap-8 gap-12">
             <div className="w-full xl:w-5/12 lg:w-6/12">
                 <h2 className="font-bold lg:text-4xl text-3xl lg:leading-9 leading-7 text-gray-800">Mint NFT, Get Your Harvest!</h2>
-                <p className="font-normal text-base leading-6 text-gray-600 mt-4">Paanen makes NFT but does not contain unique paintings or drawings, but data on harvests that will be the season at that time, which contains the name of the harvest and the village from which the product originates, the name of the ongoing season, and the edition of the season, the weight of the harvest, and the code QR for the link of the submission data filling form.</p>
-                <p className="font-normal text-base leading-6 text-gray-600 mt-6">Every time you mint NFT, you are entitled to your harvest, and the farmer will immediately send the harvest to your address.</p>
+                <p className="font-normal text-base leading-6 text-gray-600 mt-4">PAANEN makes you obtain NFT but not with selling unique paintings or drawings, instead with the event's certificate, which contains the name of the harvest product and the village from which the product originates, the name of the ongoing event, and the edition of the event, the weight of the harvest, and the QR code for the submission data filling form.</p>
+                <p className="font-normal text-base leading-6 text-gray-600 mt-6">Every time you mint NFT, you will be entitled to your harvest and the farmer will immediately send the harvest to your address.</p>
             </div>
             <div className="lg:flex items-center w-full lg:w-1/2 ">
                 <img className="lg:block hidden w-full" src="https://i.ibb.co/Dzb9Z0T/Non-Fungible-Token.webp" alt="people discussing on board" />
@@ -284,7 +282,7 @@ const Home: NextPage = () => {
                       <div className="flex flex-wrap items-center md:flex-row flex-col-reverse">
                         <div className="md:w-2/3 w-full pb-6 md:pb-0 md:pr-6 flex-col md:block flex items-center justify-center md:pt-0 pt-4">
                             <div>
-                              <h1 role="heading" className="text-xl md:text-2xl lg:text-4xl xl:text-4xl lg:w-10/12 text-white font-black leading-6 lg:leading-10 md:text-left text-center">Tomato harvest season is on, mint below now to get 500kg tomatoes per NFT.</h1>
+                              <h1 role="heading" className="text-xl md:text-2xl lg:text-4xl xl:text-4xl lg:w-10/12 text-white font-black leading-6 lg:leading-10 md:text-left text-center">Tomato harvest season is on. Mint now to get 500kg tomatoes per NFT!</h1>
                             </div>
                             <br/>
                             {/* Show claim button or connect wallet button */}
