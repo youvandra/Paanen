@@ -244,7 +244,7 @@ const Home: NextPage = () => {
                 role="img"
                 />
             <button className="md:hidden hover:opacity-90 text-base w-full xl:text-base xl:w-6/12 mt-4 xl:mt-8 f-f-r py-4  bg-emerald-700 text-white font-bold focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-emerald-700 rounded-lg">
-            Harvest Now!
+            <a href="#season">Harvest Now!</a>
             </button>
           </div>
       </div>
