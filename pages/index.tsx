@@ -18,7 +18,7 @@ import type { NextPage } from "next";
 import styles from "../styles/Theme.module.css";
 // Put Your Edition Drop Contract address from the dashboard here
 const myEditionDropContractAddress =
-  process.env.ADDRESS;
+  "0xE820Eaf4E6FA7eac1d1BAd28b711Be1ff4Fa65E9";
 
 const Home: NextPage = () => {
   const editionDrop = useEditionDrop(myEditionDropContractAddress);
