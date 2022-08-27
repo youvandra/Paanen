@@ -255,7 +255,7 @@ const Home: NextPage = () => {
           <div className="lg:w-10/12 w-full">
             <p className="font-normal text-sm leading-3 text-emerald-700 hover:text-emerald-800 cursor-pointer">About</p>
             <h2 className="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2">We are here to make it easier for village farmers to sell their crops with the new technology, Blockchain!.</h2>
-            <p className="font-normal text-base leading-6 text-gray-600 mt-6">Many village farmers complain that the purchase price of their harvested products is low because they have a narrow market. PAANEN's goal is to expand the rural agricultural market, make the purchasing system for agricultural products easier, faster, and safer, as well as make rural farmers familiar with new technologies in the world.</p>
+            <p className="font-normal text-base leading-6 text-gray-600 mt-6">Many village farmers complain that the purchase price of their harvested products is low because they have a narrow market. PAANEN has a goal is to expand the rural agricultural market, make the purchasing system for agricultural products easier, faster, and safer, as well as make rural farmers familiar with new technologies in the world.</p>
           </div>
           <div className="lg:mt-14 sm:mt-10 mt-12">
             <img className="lg:block hidden w-full" src="https://i.ibb.co/JpbKy79/Desain-tanpa-judul-7.webp" alt="Group of people Chilling" />
